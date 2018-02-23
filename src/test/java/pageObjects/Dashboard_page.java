@@ -14,6 +14,7 @@ public class Dashboard_page {
 	
 	public void Dashboard() throws Exception{
 		//test
+		//sample
 		Logger logger=Logger.getLogger("Login_Page");
 		PropertyConfigurator.configure("log4j.properties");
 		this.driver = new Login_Page().getDriver();	
