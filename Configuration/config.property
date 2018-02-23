@@ -1,0 +1,7 @@
+ChromeDriver=D:\\Mangai\\selenium\\chromedriver_win32 (3)\\chromedriver.exe
+
+IEDriver=D:\\Mangai\\IEDriverServer_Win32_2.53.1\\IEDriverServer.exe
+
+Url=http://inmatecr01.sgssys.info/facilityuser
+
+excel =C:\\Users\\mangaipriya\\selenium\\inmatedemo\\Testdata\\data1.xlsx
