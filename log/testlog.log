@@ -13730,3 +13730,63 @@
 2018-01-23 15:55:31,337 - Login_Page -INFO - Web user action chosen
 2018-01-23 15:55:50,229 - Login_Page -INFO - Ok Popup clicked successfully
 2018-01-23 15:57:55,647 - Login_Page -INFO - Photo menu has been chosen
+2018-02-23 12:50:36,696 - Login_Page -INFO - Enter valid Username
+2018-02-23 12:50:36,923 - Login_Page -INFO - Username Entered Successfully
+2018-02-23 12:50:37,986 - Login_Page -INFO - Enter valid password
+2018-02-23 12:50:38,034 - Login_Page -INFO - Password Entered Successfully
+2018-02-23 12:50:52,046 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-23 12:50:52,136 - Login_Page -INFO - Loggined as Super Admin
+2018-02-23 12:50:54,350 - Login_Page -INFO - Add Facility has been chosen
+2018-02-23 12:51:00,139 - Login_Page -INFO - Facility Name has been entered
+2018-02-23 12:51:03,575 - Login_Page -INFO - Logo chosen successfully
+2018-02-23 12:51:06,305 - Login_Page -INFO - Upload button chosen successfully
+2018-02-23 12:51:06,613 - Login_Page -INFO - Email has been entered
+2018-02-23 12:51:06,854 - Login_Page -INFO - Phone number has been entered
+2018-02-23 12:51:08,026 - Login_Page -INFO - Facility address has been entered
+2018-02-23 12:51:08,203 - Login_Page -INFO - State has chosen
+2018-02-23 12:51:09,309 - Login_Page -INFO - Message checkbox chosen successfully
+2018-02-23 12:51:10,371 - Login_Page -INFO - Document checkbox chosen successfully
+2018-02-23 12:51:11,447 - Login_Page -INFO - Photo checkbox chosen successfully
+2018-02-23 12:51:12,524 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-23 12:51:13,661 - Login_Page -INFO - Visitor checkbox chosen successfully
+2018-02-23 12:51:14,700 - Login_Page -INFO - Admin checkbox chosen successfully
+2018-02-23 12:51:15,741 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-23 12:51:16,812 - Login_Page -INFO - Message to inmate1 has been chosen
+2018-02-23 12:51:16,857 - Login_Page -INFO - Message to inmate2 has been chosen
+2018-02-23 12:51:18,349 - Login_Page -INFO - Visitor form has been entered
+2018-02-23 12:51:19,467 - Login_Page -INFO - Request form has been entered
+2018-02-23 12:51:20,468 - Login_Page -INFO - Ok button has been clicked
+2018-02-23 12:51:20,722 - Login_Page -INFO - Remedy form has been entered
+2018-02-23 12:51:21,828 - Login_Page -INFO - Freq count has been entered
+2018-02-23 12:51:21,899 - Login_Page -INFO - Freq type has been entered
+2018-02-23 12:51:21,983 - Login_Page -INFO - Freq count has been entered
+2018-02-23 12:51:22,220 - Login_Page -INFO - Form title1 has been entered
+2018-02-23 12:51:22,377 - Login_Page -INFO - Form title2 has been entered
+2018-02-23 12:51:25,658 - Login_Page -INFO - Server url has been entered
+2018-02-23 12:51:27,054 - Login_Page -INFO - File path has been entered
+2018-02-23 12:51:28,192 - Login_Page -INFO - Username has been entered
+2018-02-23 12:51:29,304 - Login_Page -INFO - Password has been entered
+2018-02-23 12:51:30,946 - Login_Page -INFO - save button clicked
+2018-02-23 12:51:34,208 - Login_Page -INFO - Ok button clicked
+2018-02-23 12:51:50,550 - Login_Page -INFO - Management user menu has been chosen
+2018-02-23 12:51:50,649 - Login_Page -INFO - Facility code has been chosen
+2018-02-23 12:51:52,731 - Login_Page -INFO - Add user button has been clicked
+2018-02-23 12:51:54,820 - Login_Page -INFO - Facility role has chosen
+2018-02-23 12:51:55,953 - Login_Page -INFO - Firstname has been entered
+2018-02-23 12:51:56,020 - Login_Page -INFO - Lastname has been entered
+2018-02-23 12:51:56,108 - Login_Page -INFO - Username has been entered
+2018-02-23 12:51:56,170 - Login_Page -INFO - Password has been entered
+2018-02-23 12:51:56,336 - Login_Page -INFO - Email has been entered
+2018-02-23 12:51:56,395 - Login_Page -INFO - Address has been entered
+2018-02-23 12:51:56,491 - Login_Page -INFO - State has been selected
+2018-02-23 12:51:59,544 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-23 12:52:01,585 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-23 12:52:03,625 - Login_Page -INFO - Remedy form has chosen
+2018-02-23 12:52:05,683 - Login_Page -INFO - Remedy Respond checkbox chosen
+2018-02-23 12:52:05,717 - Login_Page -INFO - Submit button clicked successfully
+2018-02-23 12:52:07,060 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-23 12:52:08,688 - Login_Page -INFO - Management user menu has been chosen
+2018-02-23 12:52:08,739 - Login_Page -INFO - Facility code has been chosen
+2018-02-23 12:52:10,820 - Login_Page -INFO - Full name has been entered
+2018-02-23 12:52:11,899 - Login_Page -INFO - search button has been chosen
+2018-02-23 12:52:13,998 - Login_Page -INFO - Edit option is clicked
