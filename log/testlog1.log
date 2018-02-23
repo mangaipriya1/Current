@@ -13790,3 +13790,10 @@
 2018-02-23 12:52:10,820 [main] INFO Login_Page - Full name has been entered
 2018-02-23 12:52:11,899 [main] INFO Login_Page - search button has been chosen
 2018-02-23 12:52:13,998 [main] INFO Login_Page - Edit option is clicked
+2018-02-23 13:06:56,474 [main] INFO Login_Page - Enter valid Username
+2018-02-23 13:06:56,552 [main] INFO Login_Page - Username Entered Successfully
+2018-02-23 13:06:57,645 [main] INFO Login_Page - Enter valid password
+2018-02-23 13:06:57,694 [main] INFO Login_Page - Password Entered Successfully
+2018-02-23 13:07:12,127 [main] INFO Login_Page - Submit button clicked Successfully
+2018-02-23 13:07:12,160 [main] INFO Login_Page - Loggined as Super Admin
+2018-02-23 13:07:14,007 [main] INFO Login_Page - Add Facility has been chosen

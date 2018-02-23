@@ -13,6 +13,7 @@ public class Dashboard_page {
 	public static WebDriver driver;
 	
 	public void Dashboard() throws Exception{
+		//test
 		Logger logger=Logger.getLogger("Login_Page");
 		PropertyConfigurator.configure("log4j.properties");
 		this.driver = new Login_Page().getDriver();	
