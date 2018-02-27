@@ -22,7 +22,7 @@ public class Inmate {
 	By btn_search = By.id("btnSearch");
 	By lnk_inmate = By.id("rptUser_menuAnchor_9");
 	By lst_edit = By.id("lnkInmateResidentId");
-	By menu_message = By.xpath("//*[@id='ContentPlaceHolder1_anchrMessages']/i/span");
+	By menu_message = By.id("ContentPlaceHolder1_anchrMessages");
 	By menu_photo = By.xpath("//*[@id='ContentPlaceHolder1_anchrPhotos']/i/span");
 	By menu_free_credits = By.xpath("//*[@id='ContentPlaceHolder1_achrFreeCreditsInfo']/i/span");
 	By txt_investigator_mail = By.id("ContentPlaceHolder1_txtInvestigatorEmail");
@@ -74,9 +74,9 @@ public class Inmate {
 			
 			driver.findElement(menu_message).click();
 			logger.info("Message Tab has been clicked");
-			Thread.sleep(2000);
+			Thread.sleep(3000);
 			List<WebElement> element1 = driver.findElements(lnk_subject);
-			element1.get(3).click();
+			element1.get(0).click();
 			logger.info("Message link has been clicked");
 			Thread.sleep(1000);
 			driver.findElement(btn_translate).click();

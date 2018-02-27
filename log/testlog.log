@@ -13797,3 +13797,748 @@
 2018-02-23 13:07:12,127 - Login_Page -INFO - Submit button clicked Successfully
 2018-02-23 13:07:12,160 - Login_Page -INFO - Loggined as Super Admin
 2018-02-23 13:07:14,007 - Login_Page -INFO - Add Facility has been chosen
+2018-02-26 11:29:35,823 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:29:36,025 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:29:37,116 - Login_Page -INFO - Enter valid password
+2018-02-26 11:29:37,161 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:29:47,284 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:29:47,345 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:29:49,412 - Login_Page -INFO - Add Facility has been chosen
+2018-02-26 11:29:55,193 - Login_Page -INFO - Facility Name has been entered
+2018-02-26 11:29:58,518 - Login_Page -INFO - Logo chosen successfully
+2018-02-26 11:30:01,256 - Login_Page -INFO - Upload button chosen successfully
+2018-02-26 11:30:01,537 - Login_Page -INFO - Email has been entered
+2018-02-26 11:30:01,736 - Login_Page -INFO - Phone number has been entered
+2018-02-26 11:30:02,900 - Login_Page -INFO - Facility address has been entered
+2018-02-26 11:30:03,080 - Login_Page -INFO - State has chosen
+2018-02-26 11:30:04,187 - Login_Page -INFO - Message checkbox chosen successfully
+2018-02-26 11:30:05,251 - Login_Page -INFO - Document checkbox chosen successfully
+2018-02-26 11:30:06,303 - Login_Page -INFO - Photo checkbox chosen successfully
+2018-02-26 11:30:07,375 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:30:08,537 - Login_Page -INFO - Visitor checkbox chosen successfully
+2018-02-26 11:30:09,599 - Login_Page -INFO - Admin checkbox chosen successfully
+2018-02-26 11:30:10,656 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:30:11,726 - Login_Page -INFO - Message to inmate1 has been chosen
+2018-02-26 11:30:11,786 - Login_Page -INFO - Message to inmate2 has been chosen
+2018-02-26 11:30:13,292 - Login_Page -INFO - Visitor form has been entered
+2018-02-26 11:30:14,409 - Login_Page -INFO - Request form has been entered
+2018-02-26 11:30:15,409 - Login_Page -INFO - Ok button has been clicked
+2018-02-26 11:30:15,669 - Login_Page -INFO - Remedy form has been entered
+2018-02-26 11:30:16,771 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:30:16,842 - Login_Page -INFO - Freq type has been entered
+2018-02-26 11:30:16,930 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:30:17,228 - Login_Page -INFO - Form title1 has been entered
+2018-02-26 11:30:17,410 - Login_Page -INFO - Form title2 has been entered
+2018-02-26 11:30:20,663 - Login_Page -INFO - Server url has been entered
+2018-02-26 11:30:22,053 - Login_Page -INFO - File path has been entered
+2018-02-26 11:30:23,197 - Login_Page -INFO - Username has been entered
+2018-02-26 11:30:24,302 - Login_Page -INFO - Password has been entered
+2018-02-26 11:30:26,277 - Login_Page -INFO - save button clicked
+2018-02-26 11:30:29,599 - Login_Page -INFO - Ok button clicked
+2018-02-26 11:32:29,286 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:32:29,345 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:32:30,437 - Login_Page -INFO - Enter valid password
+2018-02-26 11:32:30,483 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:32:31,830 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:32:31,869 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:32:33,221 - Login_Page -INFO - Add Facility has been chosen
+2018-02-26 11:32:38,960 - Login_Page -INFO - Facility Name has been entered
+2018-02-26 11:32:42,158 - Login_Page -INFO - Logo chosen successfully
+2018-02-26 11:32:44,704 - Login_Page -INFO - Upload button chosen successfully
+2018-02-26 11:32:45,116 - Login_Page -INFO - Email has been entered
+2018-02-26 11:32:45,311 - Login_Page -INFO - Phone number has been entered
+2018-02-26 11:32:46,471 - Login_Page -INFO - Facility address has been entered
+2018-02-26 11:32:46,655 - Login_Page -INFO - State has chosen
+2018-02-26 11:32:47,747 - Login_Page -INFO - Message checkbox chosen successfully
+2018-02-26 11:32:48,814 - Login_Page -INFO - Document checkbox chosen successfully
+2018-02-26 11:32:49,890 - Login_Page -INFO - Photo checkbox chosen successfully
+2018-02-26 11:32:50,952 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:32:52,094 - Login_Page -INFO - Visitor checkbox chosen successfully
+2018-02-26 11:32:53,162 - Login_Page -INFO - Admin checkbox chosen successfully
+2018-02-26 11:32:54,244 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:32:55,290 - Login_Page -INFO - Message to inmate1 has been chosen
+2018-02-26 11:32:55,339 - Login_Page -INFO - Message to inmate2 has been chosen
+2018-02-26 11:32:56,762 - Login_Page -INFO - Visitor form has been entered
+2018-02-26 11:32:57,881 - Login_Page -INFO - Request form has been entered
+2018-02-26 11:32:58,882 - Login_Page -INFO - Ok button has been clicked
+2018-02-26 11:32:59,164 - Login_Page -INFO - Remedy form has been entered
+2018-02-26 11:33:00,277 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:33:00,351 - Login_Page -INFO - Freq type has been entered
+2018-02-26 11:33:00,447 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:33:00,692 - Login_Page -INFO - Form title1 has been entered
+2018-02-26 11:33:00,862 - Login_Page -INFO - Form title2 has been entered
+2018-02-26 11:33:04,137 - Login_Page -INFO - Server url has been entered
+2018-02-26 11:33:05,687 - Login_Page -INFO - File path has been entered
+2018-02-26 11:33:06,838 - Login_Page -INFO - Username has been entered
+2018-02-26 11:33:07,954 - Login_Page -INFO - Password has been entered
+2018-02-26 11:33:09,521 - Login_Page -INFO - save button clicked
+2018-02-26 11:33:12,771 - Login_Page -INFO - Ok button clicked
+2018-02-26 11:33:24,271 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:33:24,363 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:33:26,439 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:33:28,525 - Login_Page -INFO - Facility role has chosen
+2018-02-26 11:43:16,962 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:43:17,017 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:43:18,104 - Login_Page -INFO - Enter valid password
+2018-02-26 11:43:18,151 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:43:24,612 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:43:24,645 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:43:32,791 - Login_Page -INFO - Code has been edited
+2018-02-26 11:43:34,894 - Login_Page -INFO - Message to inmate3 has been chosen
+2018-02-26 11:43:47,392 - Login_Page -INFO - Update button clicked
+2018-02-26 11:44:51,932 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:44:52,001 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:44:53,082 - Login_Page -INFO - Enter valid password
+2018-02-26 11:44:53,130 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:44:54,804 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:44:54,842 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:45:01,689 - Login_Page -INFO - Code has been edited
+2018-02-26 11:45:03,822 - Login_Page -INFO - Message to inmate3 has been chosen
+2018-02-26 11:45:15,996 - Login_Page -INFO - Update button clicked
+2018-02-26 11:45:18,276 - Login_Page -INFO - Export to excel link clicked successfully
+2018-02-26 11:45:18,338 - Login_Page -INFO - Navigated to list page
+2018-02-26 11:45:22,952 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:45:23,044 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:45:25,116 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:50:32,083 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:50:32,144 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:50:33,231 - Login_Page -INFO - Enter valid password
+2018-02-26 11:50:33,277 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:50:38,475 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:50:38,514 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:50:38,520 - Login_Page -INFO - Export to excel link clicked successfully
+2018-02-26 11:50:38,557 - Login_Page -INFO - Navigated to list page
+2018-02-26 11:50:39,639 - Login_Page -INFO - Pagination has been chosen
+2018-02-26 11:50:39,639 - Login_Page -INFO - Before Code sorting
+2018-02-26 11:50:45,880 - Login_Page -INFO - After code sorting
+2018-02-26 11:50:49,026 - Login_Page -INFO - Before Name sorting
+2018-02-26 11:51:24,269 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:51:24,325 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:51:25,401 - Login_Page -INFO - Enter valid password
+2018-02-26 11:51:25,449 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:51:26,805 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:51:26,853 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:51:28,781 - Login_Page -INFO - Add Facility has been chosen
+2018-02-26 11:51:34,560 - Login_Page -INFO - Facility Name has been entered
+2018-02-26 11:51:37,751 - Login_Page -INFO - Logo chosen successfully
+2018-02-26 11:51:40,330 - Login_Page -INFO - Upload button chosen successfully
+2018-02-26 11:51:40,754 - Login_Page -INFO - Email has been entered
+2018-02-26 11:51:40,951 - Login_Page -INFO - Phone number has been entered
+2018-02-26 11:51:42,119 - Login_Page -INFO - Facility address has been entered
+2018-02-26 11:51:42,314 - Login_Page -INFO - State has chosen
+2018-02-26 11:51:43,406 - Login_Page -INFO - Message checkbox chosen successfully
+2018-02-26 11:51:44,466 - Login_Page -INFO - Document checkbox chosen successfully
+2018-02-26 11:51:45,542 - Login_Page -INFO - Photo checkbox chosen successfully
+2018-02-26 11:51:46,620 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:51:47,746 - Login_Page -INFO - Visitor checkbox chosen successfully
+2018-02-26 11:51:48,813 - Login_Page -INFO - Admin checkbox chosen successfully
+2018-02-26 11:51:49,886 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:51:50,946 - Login_Page -INFO - Message to inmate1 has been chosen
+2018-02-26 11:51:50,988 - Login_Page -INFO - Message to inmate2 has been chosen
+2018-02-26 11:51:52,435 - Login_Page -INFO - Visitor form has been entered
+2018-02-26 11:51:53,551 - Login_Page -INFO - Request form has been entered
+2018-02-26 11:51:54,551 - Login_Page -INFO - Ok button has been clicked
+2018-02-26 11:51:54,818 - Login_Page -INFO - Remedy form has been entered
+2018-02-26 11:51:55,922 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:51:55,993 - Login_Page -INFO - Freq type has been entered
+2018-02-26 11:51:56,076 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:51:56,320 - Login_Page -INFO - Form title1 has been entered
+2018-02-26 11:51:56,506 - Login_Page -INFO - Form title2 has been entered
+2018-02-26 11:51:59,767 - Login_Page -INFO - Server url has been entered
+2018-02-26 11:52:01,361 - Login_Page -INFO - File path has been entered
+2018-02-26 11:52:02,497 - Login_Page -INFO - Username has been entered
+2018-02-26 11:52:03,608 - Login_Page -INFO - Password has been entered
+2018-02-26 11:52:05,119 - Login_Page -INFO - save button clicked
+2018-02-26 11:52:08,576 - Login_Page -INFO - Ok button clicked
+2018-02-26 11:52:18,187 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:52:18,280 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:52:20,351 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:53:03,036 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:53:03,103 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:53:04,187 - Login_Page -INFO - Enter valid password
+2018-02-26 11:53:04,235 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:53:06,191 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:53:06,230 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:53:07,739 - Login_Page -INFO - Add Facility has been chosen
+2018-02-26 11:53:13,542 - Login_Page -INFO - Facility Name has been entered
+2018-02-26 11:53:16,772 - Login_Page -INFO - Logo chosen successfully
+2018-02-26 11:53:19,291 - Login_Page -INFO - Upload button chosen successfully
+2018-02-26 11:53:19,713 - Login_Page -INFO - Email has been entered
+2018-02-26 11:53:19,911 - Login_Page -INFO - Phone number has been entered
+2018-02-26 11:53:21,082 - Login_Page -INFO - Facility address has been entered
+2018-02-26 11:53:21,289 - Login_Page -INFO - State has chosen
+2018-02-26 11:53:22,371 - Login_Page -INFO - Message checkbox chosen successfully
+2018-02-26 11:53:23,431 - Login_Page -INFO - Document checkbox chosen successfully
+2018-02-26 11:53:24,504 - Login_Page -INFO - Photo checkbox chosen successfully
+2018-02-26 11:53:25,582 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:53:26,724 - Login_Page -INFO - Visitor checkbox chosen successfully
+2018-02-26 11:53:27,802 - Login_Page -INFO - Admin checkbox chosen successfully
+2018-02-26 11:53:28,860 - Login_Page -INFO - Request checkbox chosen successfully
+2018-02-26 11:53:29,934 - Login_Page -INFO - Message to inmate1 has been chosen
+2018-02-26 11:53:29,981 - Login_Page -INFO - Message to inmate2 has been chosen
+2018-02-26 11:53:31,412 - Login_Page -INFO - Visitor form has been entered
+2018-02-26 11:53:32,528 - Login_Page -INFO - Request form has been entered
+2018-02-26 11:53:33,528 - Login_Page -INFO - Ok button has been clicked
+2018-02-26 11:53:33,794 - Login_Page -INFO - Remedy form has been entered
+2018-02-26 11:53:34,892 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:53:34,967 - Login_Page -INFO - Freq type has been entered
+2018-02-26 11:53:35,054 - Login_Page -INFO - Freq count has been entered
+2018-02-26 11:53:35,322 - Login_Page -INFO - Form title1 has been entered
+2018-02-26 11:53:35,503 - Login_Page -INFO - Form title2 has been entered
+2018-02-26 11:53:38,738 - Login_Page -INFO - Server url has been entered
+2018-02-26 11:53:40,285 - Login_Page -INFO - File path has been entered
+2018-02-26 11:53:41,435 - Login_Page -INFO - Username has been entered
+2018-02-26 11:53:42,528 - Login_Page -INFO - Password has been entered
+2018-02-26 11:53:43,982 - Login_Page -INFO - save button clicked
+2018-02-26 11:53:47,278 - Login_Page -INFO - Ok button clicked
+2018-02-26 11:53:56,282 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:53:56,366 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:53:58,448 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:54:00,532 - Login_Page -INFO - Facility role has chosen
+2018-02-26 11:54:55,189 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:54:55,253 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:54:56,340 - Login_Page -INFO - Enter valid password
+2018-02-26 11:54:56,387 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:54:58,150 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:54:58,207 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:55:03,172 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:55:03,262 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:55:05,351 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:55:07,454 - Login_Page -INFO - Facility role has chosen
+2018-02-26 11:55:47,102 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:55:47,177 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:55:48,268 - Login_Page -INFO - Enter valid password
+2018-02-26 11:55:48,317 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:55:54,135 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:55:54,166 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:56:03,099 - Login_Page -INFO - Code has been edited
+2018-02-26 11:56:05,219 - Login_Page -INFO - Message to inmate3 has been chosen
+2018-02-26 11:56:17,443 - Login_Page -INFO - Update button clicked
+2018-02-26 11:56:19,976 - Login_Page -INFO - Export to excel link clicked successfully
+2018-02-26 11:56:20,019 - Login_Page -INFO - Navigated to list page
+2018-02-26 11:56:25,458 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:56:25,546 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:56:27,599 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:56:29,691 - Login_Page -INFO - Facility role has chosen
+2018-02-26 11:56:30,803 - Login_Page -INFO - Firstname has been entered
+2018-02-26 11:56:30,878 - Login_Page -INFO - Lastname has been entered
+2018-02-26 11:56:30,970 - Login_Page -INFO - Username has been entered
+2018-02-26 11:56:31,041 - Login_Page -INFO - Password has been entered
+2018-02-26 11:56:31,226 - Login_Page -INFO - Email has been entered
+2018-02-26 11:56:31,294 - Login_Page -INFO - Address has been entered
+2018-02-26 11:56:31,406 - Login_Page -INFO - State has been selected
+2018-02-26 11:56:34,475 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-26 11:56:36,546 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-26 11:56:38,609 - Login_Page -INFO - Remedy form has chosen
+2018-02-26 11:56:40,653 - Login_Page -INFO - Remedy Respond checkbox chosen
+2018-02-26 11:56:40,690 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 11:56:42,101 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 11:56:43,293 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:56:43,347 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:56:45,454 - Login_Page -INFO - Full name has been entered
+2018-02-26 11:56:46,533 - Login_Page -INFO - search button has been chosen
+2018-02-26 11:56:48,653 - Login_Page -INFO - Edit option is clicked
+2018-02-26 11:56:54,932 - Login_Page -INFO - Request form 2 checkbox chosen
+2018-02-26 11:56:56,044 - Login_Page -INFO - Update button has been selected
+2018-02-26 11:56:56,975 - Login_Page -INFO - Ok popup has been chosen
+2018-02-26 11:56:59,102 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:56:59,157 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:57:01,234 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 11:57:03,302 - Login_Page -INFO - Facility role has chosen
+2018-02-26 11:57:04,420 - Login_Page -INFO - Facility staff first name has been entered
+2018-02-26 11:57:05,515 - Login_Page -INFO - Facility staff last name has been entered
+2018-02-26 11:57:06,608 - Login_Page -INFO - Facility staff username name has been entered
+2018-02-26 11:57:07,702 - Login_Page -INFO - Facility staff Password has been entered
+2018-02-26 11:57:08,806 - Login_Page -INFO - Facility staff Email has been entered
+2018-02-26 11:57:09,898 - Login_Page -INFO - Facility staff Address has been entered
+2018-02-26 11:57:10,001 - Login_Page -INFO - Facility staff State has been selected
+2018-02-26 11:58:08,627 - Login_Page -INFO - Enter valid Username
+2018-02-26 11:58:08,696 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 11:58:09,751 - Login_Page -INFO - Enter valid password
+2018-02-26 11:58:09,797 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 11:58:11,701 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 11:58:11,741 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 11:58:21,391 - Login_Page -INFO - Code has been edited
+2018-02-26 11:58:23,522 - Login_Page -INFO - Message to inmate3 has been chosen
+2018-02-26 11:58:35,832 - Login_Page -INFO - Update button clicked
+2018-02-26 11:58:38,174 - Login_Page -INFO - Export to excel link clicked successfully
+2018-02-26 11:58:38,217 - Login_Page -INFO - Navigated to list page
+2018-02-26 11:58:45,287 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 11:58:45,388 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 11:58:47,464 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:09:38,871 - Login_Page -INFO - Enter valid Username
+2018-02-26 12:09:38,954 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 12:09:40,038 - Login_Page -INFO - Enter valid password
+2018-02-26 12:09:40,096 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 12:09:48,636 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 12:09:48,670 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 12:09:58,158 - Login_Page -INFO - Code has been edited
+2018-02-26 12:10:00,286 - Login_Page -INFO - Message to inmate3 has been chosen
+2018-02-26 12:10:12,410 - Login_Page -INFO - Update button clicked
+2018-02-26 12:10:14,678 - Login_Page -INFO - Export to excel link clicked successfully
+2018-02-26 12:10:14,731 - Login_Page -INFO - Navigated to list page
+2018-02-26 12:10:26,167 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:10:26,262 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:10:28,316 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:11:48,329 - Login_Page -INFO - Enter valid Username
+2018-02-26 12:11:48,393 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 12:11:49,466 - Login_Page -INFO - Enter valid password
+2018-02-26 12:11:49,515 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 12:11:51,419 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 12:11:51,478 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 12:12:00,344 - Login_Page -INFO - Code has been edited
+2018-02-26 12:12:02,474 - Login_Page -INFO - Message to inmate3 has been chosen
+2018-02-26 12:12:14,597 - Login_Page -INFO - Update button clicked
+2018-02-26 12:12:16,870 - Login_Page -INFO - Export to excel link clicked successfully
+2018-02-26 12:12:16,961 - Login_Page -INFO - Navigated to list page
+2018-02-26 12:12:23,046 - Login_Page -INFO - Pagination has been chosen
+2018-02-26 12:12:23,047 - Login_Page -INFO - Before Code sorting
+2018-02-26 12:12:47,646 - Login_Page -INFO - After code sorting
+2018-02-26 12:12:50,856 - Login_Page -INFO - Before Name sorting
+2018-02-26 12:12:54,038 - Login_Page -INFO - After Name sorting
+2018-02-26 12:12:57,177 - Login_Page -INFO - Before State sorting
+2018-02-26 12:13:20,289 - Login_Page -INFO - After State sorting
+2018-02-26 12:13:30,418 - Login_Page -INFO - Registered user menu has been chosen
+2018-02-26 12:13:36,129 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 12:13:38,227 - Login_Page -INFO - Pagination has been clicked
+2018-02-26 12:13:40,298 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 12:13:42,364 - Login_Page -INFO - Search button has been clicked
+2018-02-26 12:13:45,002 - Login_Page -INFO - Username has been selected
+2018-02-26 12:13:47,066 - Login_Page -INFO - Inactive has been chosen
+2018-02-26 12:13:49,120 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 12:39:18,693 - Login_Page -INFO - Enter valid Username
+2018-02-26 12:39:18,758 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 12:39:19,868 - Login_Page -INFO - Enter valid password
+2018-02-26 12:39:19,938 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 12:39:26,863 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 12:39:26,903 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 12:39:32,826 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:39:32,920 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:39:34,999 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:39:37,086 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:39:38,207 - Login_Page -INFO - Firstname has been entered
+2018-02-26 12:39:38,279 - Login_Page -INFO - Lastname has been entered
+2018-02-26 12:39:38,380 - Login_Page -INFO - Username has been entered
+2018-02-26 12:39:38,453 - Login_Page -INFO - Password has been entered
+2018-02-26 12:39:38,620 - Login_Page -INFO - Email has been entered
+2018-02-26 12:39:38,680 - Login_Page -INFO - Address has been entered
+2018-02-26 12:39:38,777 - Login_Page -INFO - State has been selected
+2018-02-26 12:39:41,826 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-26 12:39:43,850 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-26 12:39:45,891 - Login_Page -INFO - Remedy form has chosen
+2018-02-26 12:39:47,954 - Login_Page -INFO - Remedy Respond checkbox chosen
+2018-02-26 12:39:47,986 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:39:49,308 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:39:50,296 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:39:50,353 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:39:52,460 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:39:53,543 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:39:55,655 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:49:01,638 - Login_Page -INFO - Enter valid Username
+2018-02-26 12:49:01,702 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 12:49:02,782 - Login_Page -INFO - Enter valid password
+2018-02-26 12:49:02,831 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 12:49:08,022 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 12:49:08,055 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 12:49:13,701 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:49:13,798 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:49:15,864 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:49:17,968 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:49:19,094 - Login_Page -INFO - Firstname has been entered
+2018-02-26 12:49:19,178 - Login_Page -INFO - Lastname has been entered
+2018-02-26 12:49:19,363 - Login_Page -INFO - Username has been entered
+2018-02-26 12:49:19,428 - Login_Page -INFO - Password has been entered
+2018-02-26 12:49:19,589 - Login_Page -INFO - Email has been entered
+2018-02-26 12:49:19,650 - Login_Page -INFO - Address has been entered
+2018-02-26 12:49:19,744 - Login_Page -INFO - State has been selected
+2018-02-26 12:49:22,840 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-26 12:49:24,885 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-26 12:49:26,925 - Login_Page -INFO - Remedy form has chosen
+2018-02-26 12:49:28,980 - Login_Page -INFO - Remedy Respond checkbox chosen
+2018-02-26 12:49:29,016 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:49:30,408 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:49:32,100 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:49:32,180 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:49:34,298 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:49:35,347 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:49:37,467 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:52:12,478 - Login_Page -INFO - Enter valid Username
+2018-02-26 12:52:12,537 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 12:52:13,621 - Login_Page -INFO - Enter valid password
+2018-02-26 12:52:13,668 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 12:52:15,650 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 12:52:15,694 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 12:52:20,120 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:52:20,205 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:52:22,252 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:52:24,340 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:52:25,457 - Login_Page -INFO - Firstname has been entered
+2018-02-26 12:52:25,535 - Login_Page -INFO - Lastname has been entered
+2018-02-26 12:52:25,713 - Login_Page -INFO - Username has been entered
+2018-02-26 12:52:25,773 - Login_Page -INFO - Password has been entered
+2018-02-26 12:52:25,928 - Login_Page -INFO - Email has been entered
+2018-02-26 12:52:25,985 - Login_Page -INFO - Address has been entered
+2018-02-26 12:52:26,078 - Login_Page -INFO - State has been selected
+2018-02-26 12:52:29,176 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-26 12:52:31,222 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-26 12:52:33,285 - Login_Page -INFO - Remedy form has chosen
+2018-02-26 12:52:35,332 - Login_Page -INFO - Remedy Respond checkbox chosen
+2018-02-26 12:52:35,365 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:52:36,719 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:52:37,791 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:52:37,847 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:52:39,956 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:52:41,030 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:52:43,146 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:52:50,462 - Login_Page -INFO - Update button has been selected
+2018-02-26 12:52:51,340 - Login_Page -INFO - Ok popup has been chosen
+2018-02-26 12:52:53,605 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:52:53,664 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:52:55,733 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:52:57,820 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:52:58,947 - Login_Page -INFO - Facility staff first name has been entered
+2018-02-26 12:53:00,033 - Login_Page -INFO - Facility staff last name has been entered
+2018-02-26 12:53:01,209 - Login_Page -INFO - Facility staff username name has been entered
+2018-02-26 12:53:02,309 - Login_Page -INFO - Facility staff Password has been entered
+2018-02-26 12:53:03,520 - Login_Page -INFO - Facility staff Email has been entered
+2018-02-26 12:53:04,637 - Login_Page -INFO - Facility staff Address has been entered
+2018-02-26 12:53:04,727 - Login_Page -INFO - Facility staff State has been selected
+2018-02-26 12:53:06,773 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-26 12:53:08,813 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-26 12:53:10,876 - Login_Page -INFO - Visitor checkbox chosen
+2018-02-26 12:53:12,921 - Login_Page -INFO - Visitor Respond checkbox chosen
+2018-02-26 12:53:12,949 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:53:14,310 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:53:15,347 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:53:15,399 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:53:17,597 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:53:18,678 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:53:20,797 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:53:27,111 - Login_Page -INFO - Request form 2 checkbox chosen
+2018-02-26 12:53:30,264 - Login_Page -INFO - Update button has been selected
+2018-02-26 12:53:31,164 - Login_Page -INFO - Ok popup has been chosen
+2018-02-26 12:53:33,766 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:53:33,827 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:53:35,903 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:53:37,992 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:53:39,091 - Login_Page -INFO - PD Admin first name has been entered
+2018-02-26 12:53:40,174 - Login_Page -INFO - PD Admin last name has been entered
+2018-02-26 12:53:41,321 - Login_Page -INFO - PD Admin username name has been entered
+2018-02-26 12:53:42,409 - Login_Page -INFO - PD Admin Password has been entered
+2018-02-26 12:53:43,583 - Login_Page -INFO - PD Admin Email has been entered
+2018-02-26 12:53:44,698 - Login_Page -INFO - PD Admin Address has been entered
+2018-02-26 12:53:44,790 - Login_Page -INFO - PD Admin State has been selected
+2018-02-26 12:53:44,810 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:53:46,192 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:53:47,896 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:53:47,952 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:53:50,109 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:53:51,180 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:54:09,971 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:54:15,257 - Login_Page -INFO - Update button has been selected
+2018-02-26 12:54:18,259 - Login_Page -INFO - Ok popup has been chosen
+2018-02-26 12:54:20,439 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:54:20,493 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:54:22,585 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:54:24,670 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:54:25,750 - Login_Page -INFO - PD Staff first name has been entered
+2018-02-26 12:54:26,847 - Login_Page -INFO - PD Staff last name has been entered
+2018-02-26 12:54:27,996 - Login_Page -INFO - PD Staff username name has been entered
+2018-02-26 12:54:29,074 - Login_Page -INFO - PD Staff Password has been entered
+2018-02-26 12:54:30,260 - Login_Page -INFO - PD Staff Email has been entered
+2018-02-26 12:54:31,358 - Login_Page -INFO - PD Staff Address has been entered
+2018-02-26 12:54:31,446 - Login_Page -INFO - PD StaffState has been selected
+2018-02-26 12:54:31,467 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:54:32,815 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:54:34,466 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:54:34,523 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:54:36,709 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:54:37,753 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:54:39,853 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:54:45,142 - Login_Page -INFO - Update button has been selected
+2018-02-26 12:54:46,104 - Login_Page -INFO - Ok popup has been chosen
+2018-02-26 12:54:48,436 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:54:48,489 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:54:50,574 - Login_Page -INFO - Add user button has been clicked
+2018-02-26 12:54:52,661 - Login_Page -INFO - Facility role has chosen
+2018-02-26 12:54:53,760 - Login_Page -INFO - Super admin first name has been entered
+2018-02-26 12:54:54,850 - Login_Page -INFO - Super admin last name has been entered
+2018-02-26 12:54:56,080 - Login_Page -INFO - Super admin username name has been entered
+2018-02-26 12:54:57,147 - Login_Page -INFO - Super admin Password has been entered
+2018-02-26 12:54:58,458 - Login_Page -INFO - Super admin Email has been entered
+2018-02-26 12:54:59,572 - Login_Page -INFO - Super admin Address has been entered
+2018-02-26 12:54:59,661 - Login_Page -INFO - Super admin State has been selected
+2018-02-26 12:54:59,681 - Login_Page -INFO - Submit button clicked successfully
+2018-02-26 12:55:01,101 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 12:55:02,368 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:55:02,421 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:55:04,541 - Login_Page -INFO - Full name has been entered
+2018-02-26 12:55:05,608 - Login_Page -INFO - search button has been chosen
+2018-02-26 12:55:07,725 - Login_Page -INFO - Edit option is clicked
+2018-02-26 12:55:14,035 - Login_Page -INFO - Update button has been selected
+2018-02-26 12:55:14,913 - Login_Page -INFO - Ok popup has been chosen
+2018-02-26 12:55:16,217 - Login_Page -INFO - Management user menu has been chosen
+2018-02-26 12:55:16,271 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:55:18,149 - Login_Page -INFO - Export to excel has been chosen
+2018-02-26 12:55:20,177 - Login_Page -INFO - Pagination has been chosen
+2018-02-26 12:55:22,261 - Login_Page -INFO - Before sorting Full name
+2018-02-26 12:55:24,321 - Login_Page -INFO - After sorting Full name
+2018-02-26 12:55:26,398 - Login_Page -INFO - Before sorting role
+2018-02-26 12:55:28,469 - Login_Page -INFO - After sorting role
+2018-02-26 12:55:30,537 - Login_Page -INFO - Before sorting city
+2018-02-26 12:55:32,610 - Login_Page -INFO - After sorting city
+2018-02-26 12:55:34,684 - Login_Page -INFO - Before sorting zip
+2018-02-26 12:55:36,744 - Login_Page -INFO - After sorting zip
+2018-02-26 12:55:38,818 - Login_Page -INFO - Before sorting status
+2018-02-26 12:55:40,889 - Login_Page -INFO - After sorting status
+2018-02-26 12:57:31,949 - Login_Page -INFO - Dashboard chosen successfully
+2018-02-26 12:57:32,022 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 12:57:33,089 - Login_Page -INFO - Import Inmates button has been clicked
+2018-02-26 15:04:44,472 - Login_Page -INFO - Enter valid Username
+2018-02-26 15:04:44,658 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 15:04:45,728 - Login_Page -INFO - Enter valid password
+2018-02-26 15:04:45,779 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 15:04:52,743 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 15:04:52,776 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 15:04:55,542 - Login_Page -INFO - Registered user menu has been chosen
+2018-02-26 15:05:00,698 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 15:05:02,832 - Login_Page -INFO - Pagination has been clicked
+2018-02-26 15:05:04,923 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 15:05:06,991 - Login_Page -INFO - Search button has been clicked
+2018-02-26 15:05:09,362 - Login_Page -INFO - Username has been selected
+2018-02-26 15:05:11,455 - Login_Page -INFO - Inactive has been chosen
+2018-02-26 15:05:13,507 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 15:05:15,754 - Login_Page -INFO - OK button has been clicked
+2018-02-26 15:05:19,861 - Login_Page -INFO - Active has been chosen
+2018-02-26 15:05:21,925 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 15:05:24,149 - Login_Page -INFO - OK button has been clicked
+2018-02-26 15:05:26,219 - Login_Page -INFO - Back button has been clicked
+2018-02-26 15:05:28,290 - Login_Page -INFO - Reset button has been clicked
+2018-02-26 15:05:29,401 - Login_Page -INFO - Email sorting successfully
+2018-02-26 15:05:40,847 - Login_Page -INFO - Email sorting successfully
+2018-02-26 15:05:41,914 - Login_Page -INFO - City sorting successfully
+2018-02-26 15:05:53,441 - Login_Page -INFO - City sorting successfully
+2018-02-26 15:05:54,522 - Login_Page -INFO - State sorting successfully
+2018-02-26 15:06:06,961 - Login_Page -INFO - State sorting successfully
+2018-02-26 15:06:13,208 - Login_Page -INFO - Dashboard chosen successfully
+2018-02-26 15:06:13,304 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 15:06:14,376 - Login_Page -INFO - Import Inmates button has been clicked
+2018-02-26 15:06:16,679 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:06:17,743 - Login_Page -INFO - Report button clicked successfully
+2018-02-26 15:06:23,279 - Login_Page -INFO - Duplicates link has been clicked
+2018-02-26 15:06:25,405 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 15:06:27,455 - Login_Page -INFO - Back button has been clicked
+2018-02-26 15:06:34,795 - Login_Page -INFO - Error link has been clicked
+2018-02-26 15:06:36,906 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 15:06:38,955 - Login_Page -INFO - Back button has been clicked
+2018-02-26 15:06:42,231 - loggerin_Page -INFO - Document menu has been clicked
+2018-02-26 15:06:43,233 - loggerin_Page -INFO - Document chosen successfully
+2018-02-26 15:06:46,551 - loggerin_Page -INFO - Upload button has been clicked
+2018-02-26 15:06:48,630 - loggerin_Page -INFO - Save button clicked successfully
+2018-02-26 15:06:49,708 - loggerin_Page -INFO - Title entered successfully
+2018-02-26 15:06:53,786 - loggerin_Page -INFO - Save button clicked successfully
+2018-02-26 15:06:55,160 - loggerin_Page -INFO - File uploaded successfully
+2018-02-26 15:07:00,281 - loggerin_Page -INFO - Save button clicked successfully
+2018-02-26 15:07:01,508 - loggerin_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:07:03,038 - loggerin_Page -INFO - Document menu has been clicked
+2018-02-26 15:07:04,039 - loggerin_Page -INFO - Document chosen successfully
+2018-02-26 15:07:18,545 - Login_Page -INFO - Lockdown menu has been clicked
+2018-02-26 15:07:22,676 - Login_Page -INFO - Permission has chosen
+2018-02-26 15:07:28,776 - Login_Page -INFO - Lock button has clicked
+2018-02-26 15:07:34,019 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:07:38,075 - Login_Page -INFO - Lock button has clicked
+2018-02-26 15:07:41,157 - Login_Page -INFO - Lock button has clicked
+2018-02-26 15:07:42,369 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:07:47,744 - Login_Page -INFO - Facility radio button has been chosen
+2018-02-26 15:07:48,217 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 15:07:50,790 - Login_Page -INFO - Purchased credits link has been chosen
+2018-02-26 15:07:53,052 - Login_Page -INFO - Back button has been clicked
+2018-02-26 15:07:55,938 - Login_Page -INFO - Failed Transaction link has been chosen
+2018-02-26 15:09:39,676 - Login_Page -INFO - Facility radio button has been chosen
+2018-02-26 15:09:39,942 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 15:09:43,697 - Login_Page -INFO - Purchased credits link has been chosen
+2018-02-26 15:09:46,016 - Login_Page -INFO - Back button has been clicked
+2018-02-26 15:09:48,310 - Login_Page -INFO - Failed Transaction link has been chosen
+2018-02-26 15:11:36,503 - Login_Page -INFO - Add Pod has been chosen
+2018-02-26 15:11:36,669 - Login_Page -INFO - Pod code has been entered
+2018-02-26 15:11:36,722 - Login_Page -INFO - Pod name has been entered
+2018-02-26 15:11:36,773 - Login_Page -INFO - Permission Checkbox has been selected 
+2018-02-26 15:11:38,167 - Login_Page -INFO - Save button clicked successfully
+2018-02-26 15:11:39,379 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:11:43,369 - Login_Page -INFO - Search button has been clicked
+2018-02-26 15:11:44,866 - Login_Page -INFO - Edit option chosen
+2018-02-26 15:11:53,087 - Login_Page -INFO - Edit Pod code
+2018-02-26 15:12:01,550 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:12:54,059 - Login_Page -INFO - Id has been entered 
+2018-02-26 15:12:54,105 - Login_Page -INFO - search has been clicked 
+2018-02-26 15:12:55,905 - Login_Page -INFO - Edit has been chosen
+2018-02-26 15:13:03,100 - Login_Page -INFO - Investigator mail added successfully
+2018-02-26 15:13:03,157 - Login_Page -INFO - Message Tab has been clicked
+2018-02-26 15:13:09,389 - Login_Page -INFO - Public User Menu clicked
+2018-02-26 15:13:09,453 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 15:13:11,525 - Login_Page -INFO - Username has been entered
+2018-02-26 15:13:11,575 - Login_Page -INFO - Search button has clicked
+2018-02-26 15:13:14,107 - Login_Page -INFO - Username has been clicked
+2018-02-26 15:13:15,201 - Login_Page -INFO - Category has been clicked
+2018-02-26 15:16:40,834 - Login_Page -INFO - Photo menu has been chosen
+2018-02-26 15:16:46,038 - Login_Page -INFO - Last name has been chosen
+2018-02-26 15:16:51,205 - Login_Page -INFO - Photo has been chosen
+2018-02-26 15:16:53,362 - Login_Page -INFO - Yes button clicked
+2018-02-26 15:16:54,800 - Login_Page -INFO - Popup button clicked
+2018-02-26 15:16:55,866 - Login_Page -INFO - Reset button clicked
+2018-02-26 15:17:02,462 - Login_Page -INFO - Add button clicked successfully
+2018-02-26 15:17:02,606 - Login_Page -INFO - Keyword entered successfully
+2018-02-26 15:17:04,705 - Login_Page -INFO - Web user action chosen
+2018-02-26 15:17:13,431 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 15:22:44,361 - Login_Page -INFO - Photo menu has been chosen
+2018-02-26 15:22:56,165 - Login_Page -INFO - Request Form Type has been chosen
+2018-02-26 15:22:56,308 - Login_Page -INFO - Start date entered
+2018-02-26 15:22:56,376 - Login_Page -INFO - Start date entered
+2018-02-26 15:22:56,426 - Login_Page -INFO - Search button has clicked
+2018-02-26 15:22:59,502 - Login_Page -INFO - Reset button clicked successfully
+2018-02-26 15:23:03,593 - Login_Page -INFO - Form sorted as Ascending
+2018-02-26 15:23:06,671 - Login_Page -INFO - Form sorted as Decending
+2018-02-26 15:23:09,742 - Login_Page -INFO - Request Count sorted as Ascending
+2018-02-26 15:23:12,819 - Login_Page -INFO - Request Count sorted as Decending
+2018-02-26 15:23:15,896 - Login_Page -INFO - Respond time sorted as Ascending
+2018-02-26 15:23:18,976 - Login_Page -INFO - Respond time sorted as Decending
+2018-02-26 15:23:22,042 - Login_Page -INFO - Average Respond time sorted as Ascending
+2018-02-26 15:23:25,095 - Login_Page -INFO - Average Respond time sorted as Decending
+2018-02-26 15:23:28,162 - Login_Page -INFO - Avg Request Count sorted as Ascending
+2018-02-26 15:23:31,264 - Login_Page -INFO - Avg Request Count sorted as Decending
+2018-02-26 15:23:34,337 - Login_Page -INFO - Avg Respond sorted as Ascending
+2018-02-26 15:23:37,396 - Login_Page -INFO - Avg Respond Count sorted as Decending
+2018-02-26 15:23:40,457 - Login_Page -INFO - Avg Respond Percent sorted as Ascending
+2018-02-26 15:23:43,539 - Login_Page -INFO - Avg Respond Percent sorted as Decending
+2018-02-26 18:38:38,356 - Login_Page -INFO - Enter valid Username
+2018-02-26 18:38:38,476 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 18:38:39,564 - Login_Page -INFO - Enter valid password
+2018-02-26 18:38:39,610 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 18:38:44,863 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 18:38:44,897 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 18:38:48,001 - Login_Page -INFO - Registered user menu has been chosen
+2018-02-26 18:38:52,969 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 18:38:55,173 - Login_Page -INFO - Pagination has been clicked
+2018-02-26 18:38:58,284 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 18:39:00,346 - Login_Page -INFO - Search button has been clicked
+2018-02-26 18:39:02,703 - Login_Page -INFO - Username has been selected
+2018-02-26 18:39:04,804 - Login_Page -INFO - Inactive has been chosen
+2018-02-26 18:39:06,875 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 18:39:09,150 - Login_Page -INFO - OK button has been clicked
+2018-02-26 18:39:13,272 - Login_Page -INFO - Active has been chosen
+2018-02-26 18:39:15,333 - Login_Page -INFO - Submit button has been clicked
+2018-02-26 18:39:17,579 - Login_Page -INFO - OK button has been clicked
+2018-02-26 18:39:19,656 - Login_Page -INFO - Back button has been clicked
+2018-02-26 18:39:21,732 - Login_Page -INFO - Reset button has been clicked
+2018-02-26 18:39:22,816 - Login_Page -INFO - Email sorting successfully
+2018-02-26 18:39:34,323 - Login_Page -INFO - Email sorting successfully
+2018-02-26 18:39:35,379 - Login_Page -INFO - City sorting successfully
+2018-02-26 18:39:46,831 - Login_Page -INFO - City sorting successfully
+2018-02-26 18:39:47,898 - Login_Page -INFO - State sorting successfully
+2018-02-26 18:40:00,388 - Login_Page -INFO - State sorting successfully
+2018-02-26 18:40:06,356 - Login_Page -INFO - Dashboard chosen successfully
+2018-02-26 18:40:06,454 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 18:40:07,531 - Login_Page -INFO - Import Inmates button has been clicked
+2018-02-26 18:40:09,831 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 18:40:10,896 - Login_Page -INFO - Report button clicked successfully
+2018-02-26 18:40:16,215 - Login_Page -INFO - Duplicates link has been clicked
+2018-02-26 18:40:18,320 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 18:40:20,401 - Login_Page -INFO - Back button has been clicked
+2018-02-26 18:40:27,749 - Login_Page -INFO - Error link has been clicked
+2018-02-26 18:40:29,857 - Login_Page -INFO - Export to excel has been clicked
+2018-02-26 18:40:31,917 - Login_Page -INFO - Back button has been clicked
+2018-02-26 18:40:33,988 - loggerin_Page -INFO - Document menu has been clicked
+2018-02-26 18:40:34,990 - loggerin_Page -INFO - Document chosen successfully
+2018-02-26 18:40:38,521 - loggerin_Page -INFO - Upload button has been clicked
+2018-02-26 18:40:40,602 - loggerin_Page -INFO - Save button clicked successfully
+2018-02-26 18:40:41,689 - loggerin_Page -INFO - Title entered successfully
+2018-02-26 18:40:45,736 - loggerin_Page -INFO - Save button clicked successfully
+2018-02-26 18:40:47,122 - loggerin_Page -INFO - File uploaded successfully
+2018-02-26 18:40:51,436 - loggerin_Page -INFO - Save button clicked successfully
+2018-02-26 18:40:52,663 - loggerin_Page -INFO - Ok Popup clicked successfully
+2018-02-26 18:40:54,560 - loggerin_Page -INFO - Document menu has been clicked
+2018-02-26 18:40:55,561 - loggerin_Page -INFO - Document chosen successfully
+2018-02-26 18:41:09,173 - Login_Page -INFO - Lockdown menu has been clicked
+2018-02-26 18:41:13,318 - Login_Page -INFO - Permission has chosen
+2018-02-26 18:41:19,417 - Login_Page -INFO - Lock button has clicked
+2018-02-26 18:41:24,682 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 18:41:28,742 - Login_Page -INFO - Lock button has clicked
+2018-02-26 18:41:31,844 - Login_Page -INFO - Lock button has clicked
+2018-02-26 18:41:33,088 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 18:41:36,717 - Login_Page -INFO - Facility radio button has been chosen
+2018-02-26 18:41:36,997 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 18:41:39,480 - Login_Page -INFO - Purchased credits link has been chosen
+2018-02-26 18:41:41,745 - Login_Page -INFO - Back button has been clicked
+2018-02-26 18:41:44,043 - Login_Page -INFO - Failed Transaction link has been chosen
+2018-02-26 18:43:27,756 - Login_Page -INFO - Facility radio button has been chosen
+2018-02-26 18:43:28,067 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 18:43:31,623 - Login_Page -INFO - Purchased credits link has been chosen
+2018-02-26 18:43:34,100 - Login_Page -INFO - Back button has been clicked
+2018-02-26 18:43:36,589 - Login_Page -INFO - Failed Transaction link has been chosen
+2018-02-26 18:45:23,802 - Login_Page -INFO - Add Pod has been chosen
+2018-02-26 18:45:23,966 - Login_Page -INFO - Pod code has been entered
+2018-02-26 18:45:24,019 - Login_Page -INFO - Pod name has been entered
+2018-02-26 18:45:24,067 - Login_Page -INFO - Permission Checkbox has been selected 
+2018-02-26 18:45:25,315 - Login_Page -INFO - Save button clicked successfully
+2018-02-26 18:45:26,497 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 18:45:29,659 - Login_Page -INFO - Search button has been clicked
+2018-02-26 18:45:30,984 - Login_Page -INFO - Edit option chosen
+2018-02-26 18:45:39,195 - Login_Page -INFO - Edit Pod code
+2018-02-26 18:45:47,662 - Login_Page -INFO - Ok Popup clicked successfully
+2018-02-26 18:46:39,378 - Login_Page -INFO - Id has been entered 
+2018-02-26 18:46:39,429 - Login_Page -INFO - search has been clicked 
+2018-02-26 18:46:40,943 - Login_Page -INFO - Edit has been chosen
+2018-02-26 18:46:48,031 - Login_Page -INFO - Investigator mail added successfully
+2018-02-26 18:46:48,122 - Login_Page -INFO - Message Tab has been clicked
+2018-02-26 18:46:53,026 - Login_Page -INFO - Public User Menu clicked
+2018-02-26 18:46:53,079 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 18:46:55,147 - Login_Page -INFO - Username has been entered
+2018-02-26 18:46:55,197 - Login_Page -INFO - Search button has clicked
+2018-02-26 18:46:57,743 - Login_Page -INFO - Username has been clicked
+2018-02-26 18:46:58,832 - Login_Page -INFO - Category has been clicked
+2018-02-26 18:55:27,228 - Login_Page -INFO - Enter valid Username
+2018-02-26 18:55:27,292 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 18:55:28,386 - Login_Page -INFO - Enter valid password
+2018-02-26 18:55:28,436 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 18:55:32,644 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 18:55:32,691 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 18:55:38,162 - Login_Page -INFO - Id has been entered 
+2018-02-26 18:55:38,222 - Login_Page -INFO - search has been clicked 
+2018-02-26 18:55:39,616 - Login_Page -INFO - Edit has been chosen
+2018-02-26 18:55:49,676 - Login_Page -INFO - Investigator mail added successfully
+2018-02-26 18:55:49,740 - Login_Page -INFO - Message Tab has been clicked
+2018-02-26 18:55:53,923 - Login_Page -INFO - Public User Menu clicked
+2018-02-26 18:55:53,984 - Login_Page -INFO - Facility code has been chosen
+2018-02-26 18:55:56,076 - Login_Page -INFO - Username has been entered
+2018-02-26 18:55:56,129 - Login_Page -INFO - Search button has clicked
+2018-02-26 18:55:58,514 - Login_Page -INFO - Username has been clicked
+2018-02-26 18:59:41,617 - Login_Page -INFO - Enter valid Username
+2018-02-26 18:59:41,684 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 18:59:42,794 - Login_Page -INFO - Enter valid password
+2018-02-26 18:59:42,849 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 18:59:45,387 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 18:59:45,423 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 18:59:50,120 - Login_Page -INFO - Id has been entered 
+2018-02-26 18:59:50,172 - Login_Page -INFO - search has been clicked 
+2018-02-26 18:59:51,605 - Login_Page -INFO - Edit has been chosen
+2018-02-26 18:59:58,585 - Login_Page -INFO - Investigator mail added successfully
+2018-02-26 18:59:58,669 - Login_Page -INFO - Message Tab has been clicked
+2018-02-26 19:01:24,042 - Login_Page -INFO - Enter valid Username
+2018-02-26 19:01:24,099 - Login_Page -INFO - Username Entered Successfully
+2018-02-26 19:01:25,170 - Login_Page -INFO - Enter valid password
+2018-02-26 19:01:25,217 - Login_Page -INFO - Password Entered Successfully
+2018-02-26 19:01:31,696 - Login_Page -INFO - Submit button clicked Successfully
+2018-02-26 19:01:31,728 - Login_Page -INFO - Loggined as Super Admin
+2018-02-26 19:01:43,530 - Login_Page -INFO - Id has been entered 
+2018-02-26 19:01:43,591 - Login_Page -INFO - search has been clicked 
+2018-02-26 19:01:45,615 - Login_Page -INFO - Edit has been chosen
+2018-02-26 19:01:52,927 - Login_Page -INFO - Investigator mail added successfully
+2018-02-26 19:01:53,008 - Login_Page -INFO - Message Tab has been clicked
+2018-02-26 19:01:57,580 - Login_Page -INFO - Message link has been clicked
+2018-02-26 19:02:06,756 - Login_Page -INFO - Translate button clicked
+2018-02-26 19:02:16,816 - Login_Page -INFO - Messages back button has been clicked
+2018-02-26 19:02:18,546 - Login_Page -INFO - Photo Tab has been clicked
+2018-02-26 19:02:23,474 - Login_Page -INFO - Photo link has been clicked
+2018-02-26 19:02:24,540 - Login_Page -INFO - Photo Back Button has been clicked
+2018-02-26 19:02:25,606 - Login_Page -INFO - Free credits Tab has been clicked
+2018-02-26 19:02:28,906 - Login_Page -INFO - Export to excel link clicked

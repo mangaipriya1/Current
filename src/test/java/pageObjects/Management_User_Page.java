@@ -18,6 +18,13 @@ import org.testng.annotations.AfterMethod;
 
 
 
+
+
+
+
+
+
+
 import utility.Log;
 
 public class Management_User_Page {
@@ -194,10 +201,10 @@ public class Management_User_Page {
 			Thread.sleep(2000);	
 			scroll();
 			Thread.sleep(1000);
-			WebElement element7=driver.findElement(chk_form3);
+			/*WebElement element7=driver.findElement(chk_form3);
 			JavascriptExecutor executor7 = (JavascriptExecutor) driver;
 			executor7.executeScript("arguments[0].click();", element7);			
-			Log.info("Request form 2 checkbox chosen");
+			Log.info("Request form 2 checkbox chosen");*/
 
 			/*scroll();
 			Thread.sleep(1000);
@@ -408,7 +415,7 @@ public class Management_User_Page {
 			Log.info("Edit option is clicked");
 			Thread.sleep(2000);
 			driver.findElement(txt_fname).clear();
-			driver.findElement(txt_fname).sendKeys("hello staff");
+			driver.findElement(txt_fname).sendKeys("hello staff"+Math.random());
 			Thread.sleep(2000);	
 			scroll();
 			Thread.sleep(1000);
@@ -466,13 +473,13 @@ public class Management_User_Page {
 			driver.findElement(txt_lname).sendKeys("defender");
 			Log.info("PD Admin last name has been entered");
 			Thread.sleep(1000);
-			driver.findElement(txt_uname).sendKeys("pddefadmins");
+			driver.findElement(txt_uname).sendKeys("pddefadmins"+Math.random());
 			Log.info("PD Admin username name has been entered");
 			Thread.sleep(1000);
 			driver.findElement(txt_pwd).sendKeys("PDAdmin123");
 			Log.info("PD Admin Password has been entered");
 			Thread.sleep(1000);
-			driver.findElement(txt_email).sendKeys("PDAdmins@test.com");
+			driver.findElement(txt_email).sendKeys(+Math.random()+"PDAdmins@test.com");
 			Log.info("PD Admin Email has been entered");
 			Thread.sleep(1000);
 			driver.findElement(txt_address).sendKeys("facilityPD Admin");
@@ -562,13 +569,13 @@ public class Management_User_Page {
 				driver.findElement(txt_lname).sendKeys("defenderstaff");
 				Log.info("PD Staff last name has been entered");
 				Thread.sleep(1000);
-				driver.findElement(txt_uname).sendKeys("pdstaffnew");
+				driver.findElement(txt_uname).sendKeys(+Math.random()+"pdstaffnew");
 				Log.info("PD Staff username name has been entered");
 				Thread.sleep(1000);
 				driver.findElement(txt_pwd).sendKeys("PDstaff123");
 				Log.info("PD Staff Password has been entered");
 				Thread.sleep(1000);
-				driver.findElement(txt_email).sendKeys("PDstaffnew@test.com");
+				driver.findElement(txt_email).sendKeys(+Math.random()+"PDstaffnew@test.com");
 				Log.info("PD Staff Email has been entered");
 				Thread.sleep(1000);
 				driver.findElement(txt_address).sendKeys("facilityPD Admin");
@@ -657,13 +664,13 @@ public class Management_User_Page {
 				driver.findElement(txt_lname).sendKeys("admin");
 				Log.info("Super admin last name has been entered");
 				Thread.sleep(1000);
-				driver.findElement(txt_uname).sendKeys("superadminneww");
+				driver.findElement(txt_uname).sendKeys(+Math.random()+"superadminneww");
 				Log.info("Super admin username name has been entered");
 				Thread.sleep(1000);
 				driver.findElement(txt_pwd).sendKeys("mangai123");
 				Log.info("Super admin Password has been entered");
 				Thread.sleep(1000);
-				driver.findElement(txt_email).sendKeys("superadminn@test3204.com");
+				driver.findElement(txt_email).sendKeys(+Math.random()+"superadminn@test3204.com");
 				Log.info("Super admin Email has been entered");
 				Thread.sleep(1000);
 				driver.findElement(txt_address).sendKeys("address");

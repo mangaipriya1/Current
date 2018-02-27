@@ -61,7 +61,8 @@ public class Facility   {
 	By txt_lawlibrary = By.id("ContentPlaceHolder1_txtLawLibraryUrl");
 	By txt_commissary = By.id("ContentPlaceHolder1_txtCommisaryUrl");
 	By edit_fac = By.xpath("//*[@id='lnkFacilityID']");
-	By pagination = By.xpath(".//*[@id='grvFacility']/tbody/tr[12]/td/table/tbody/tr/td[2]/a");
+	By pagination = By.xpath(".//*[@id='grvFacility']/tbody/tr[12]/td/table/tbody/tr/td[2]/a");                
+										
 	By btn_update = By.name("ctl00$ContentPlaceHolder1$btnSubmit");
 	By btn_popup = By.name("ctl00$ContentPlaceHolder1$uctlMessage$btnOk");
 	By menu_facility = By.xpath("//*[@id=rptUser_menuAnchor_0]");
@@ -88,7 +89,7 @@ public class Facility   {
 	By sort_lnk_city = By.xpath("//*[@id='grvFacility']/tbody/tr[2]/td[3]");
 	By sort_lnk_state = By.id("lblState");
 	By sort_lnk_status = By.id("imgStatus");
-	
+	By button_reset = By.id("ContentPlaceHolder1_btnReset");
 
 
 	/* Add Facility */
@@ -269,9 +270,10 @@ public class Facility   {
 		//PropertyConfigurator.configure("log4j.properties");
 			//System.out.println("hiii123");
 			this.driver = new Login_Page().getDriver();
-			driver.findElement(By.id("ContentPlaceHolder1_txtFacilityCodeSearch")).sendKeys("120");
+			driver.findElement(By.id("ContentPlaceHolder1_txtFacilityCodeSearch")).sendKeys("fac");
 			Thread.sleep(2000);
-			driver.findElement(By.name("ctl00$ContentPlaceHolder1$btnSearch")).click();			
+			driver.findElement(By.name("ctl00$ContentPlaceHolder1$btnSearch")).click();		
+			Thread.sleep(2000);
 			webdriverWait(edit_fac, 50);
 			List<WebElement> myElements = driver.findElements(edit_fac);
 			Thread.sleep(2000);
@@ -279,7 +281,7 @@ public class Facility   {
 			Thread.sleep(2000);
 			System.out.println("Size of List: "+myElements.size());
 			driver.findElement(txt_code).clear();
-			driver.findElement(txt_code).sendKeys("Tes1fac");
+			driver.findElement(txt_code).sendKeys("Tes1fac"+Math.random());
 			logger.info("Code has been edited");
 			Thread.sleep(2000);
 			scroll();
@@ -295,10 +297,7 @@ public class Facility   {
 			driver.findElement(txt_msg_to_inmate1).clear();
 			Thread.sleep(2000);
 			driver.findElement(txt_msg_to_inmate1).sendKeys("Message to inmate1 form");
-			Thread.sleep(2000);
-			
-			
-			
+			Thread.sleep(2000);			
 			driver.findElement(btn_update).click();
 			logger.info("Update button clicked");
 			driver.findElement(btn_alert).click();
@@ -315,17 +314,19 @@ public class Facility   {
 		try {
 			/*Logger logger=Logger.getLogger("Login_Page");
 			PropertyConfigurator.configure("log4j.properties");	
-			//driver.findElement(menu_facility).click();
-			this.driver = new Login_Page().getDriver();*/
+			//driver.findElement(menu_facility).click();*/
+			
+			this.driver = new Login_Page().getDriver();
 			//driver.findElement(lnk_Export_to_excel).click();
 			logger.info("Export to excel link clicked successfully");
 			webdriverWait(pagination, 50);
 			logger.info("Navigated to list page");
 			scroll();
-			webdriverWait(pagination, 100);
-			driver.findElement(pagination).click();
-			logger.info("Pagination has been chosen");
+			Thread.sleep(2000);	
 			
+			Thread.sleep(4000);			
+			driver.findElement(pagination).click();
+			logger.info("Pagination has been chosen");			
 			logger.info("Before Code sorting");			
 			sort_code_before();	
 			Thread.sleep(2000);

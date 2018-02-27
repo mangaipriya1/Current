@@ -118,23 +118,23 @@ public class Login_Page {
 		Pod obj = new Pod();
 		obj.Add_Pod();
 	}*/
-	@Test(priority=2)
+	/*@Test(priority=2)
 	public void Facility() throws Exception
 	{
 		Facility fac = new Facility();
-		fac.Add_Facility("Testfac2301", "2301fac", "test2301@test.com", "1234567896", "florida", "192.168.10.27", "/Inmate/Inmate2301.txt", "inmate_ftp", "inmate2017");
+		fac.Add_Facility("faciliy"+Math.random(), "facilitycode"+Math.random(), Math.random()+"test2301@test.com", "1234567896", "florida", "192.168.10.27", "/Inmate/Inmate2301"+Math.random()+".txt", "inmate_ftp", "inmate2017");
 		fac.lnkFacilityID();
 		fac.Pagination();
-	}
+	}*/
 
-	@Test(priority=3)
+	/*@Test(priority=3)
 	public void Mgmt_user() throws Exception
 	{		
 		Management_User_Page obj = new Management_User_Page();
-		obj.Mgmt_user_Add_Facilityadmin("mangaiadm","priyat","mangaiadma","mangai123");
+		obj.Mgmt_user_Add_Facilityadmin("mangaiadm","priyat","mangaiadma"+Math.random(),"mangai123");
 		obj.Mgmt_user_Edit_facilityadmin();
 		
-		obj.Add_Facility_Staff("staffhlo","staff1@fac.com");
+		obj.Add_Facility_Staff("staffhlo"+Math.random(),"staff1@fac.com"+Math.random());
 		obj.Mgmt_user_Edit_facilityStaff();
 	    obj.Add_public_defender_admin();
 		obj.Edit_public_defender_admin();
@@ -143,8 +143,8 @@ public class Login_Page {
 		obj.Add_super_admin();
 		obj.Edit_super_admin();
 		obj.pagination();
-	}
-
+	}*/
+/*
 	@Test(priority=4)
 	public void Registered_Users() throws Exception
 	{		
@@ -203,7 +203,7 @@ public class Login_Page {
 		obj.Add_kiosk();
 		obj.Edit_kiosk();
 	}
-
+*/
 	@Test(priority=11)
 	public void Inmate_list() throws Exception
 	{		
@@ -211,7 +211,7 @@ public class Login_Page {
 		obj.Edit_Inmate();
 	}
 
-	@Test(priority=12)
+	/*@Test(priority=12)
 	public void Publicuser() throws Exception
 	{		
 		Publicuser_Page obj = new Publicuser_Page();
@@ -270,7 +270,7 @@ public class Login_Page {
 		Reporting obj = new Reporting();
 		obj.report();
 
-	}
+	}*/
 	
 	/*@Test(priority=19)
 	public void Dnd() throws Exception
